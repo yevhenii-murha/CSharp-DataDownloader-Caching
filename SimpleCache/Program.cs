@@ -84,6 +84,8 @@ namespace Cache
             Console.WriteLine(dataDownloader.DownloadData("ID2"));
             Console.WriteLine(dataDownloader.DownloadData("ID3"));
             Console.WriteLine(dataDownloader.DownloadData("ID3"));
+            Console.WriteLine(dataDownloader.DownloadData("ID4"));
+            Console.WriteLine(dataDownloader.DownloadData("ID4"));
         }
     }
 }
