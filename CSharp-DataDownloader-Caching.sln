@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCache", "SimpleCache\SimpleCache.csproj", "{23A0FAE7-3076-43E5-AF12-47890C00F507}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-DataDownloader-Caching", "SimpleCache\CSharp-DataDownloader-Caching.csproj", "{23A0FAE7-3076-43E5-AF12-47890C00F507}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
