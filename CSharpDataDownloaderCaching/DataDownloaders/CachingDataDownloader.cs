@@ -1,6 +1,6 @@
-﻿using Cache.Caching;
+﻿using CSharpDataDownloaderCaching.Caching;
 
-namespace Cache.DataDownloaders
+namespace CSharpDataDownloaderCaching.DataDownloaders
 {
     public class CachingDataDownloader : IDataDownloader
     {

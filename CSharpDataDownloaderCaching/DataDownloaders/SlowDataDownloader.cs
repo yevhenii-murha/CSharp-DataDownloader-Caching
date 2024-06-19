@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 
-namespace Cache.DataDownloaders
+namespace CSharpDataDownloaderCaching.DataDownloaders
 {
     public class SlowDataDownloader : IDataDownloader
     {

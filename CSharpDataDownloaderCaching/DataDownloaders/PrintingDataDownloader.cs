@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cache.DataDownloaders
+namespace CSharpDataDownloaderCaching.DataDownloaders
 {
     public class PrintingDataDownloader : IDataDownloader
     {

@@ -1,4 +1,4 @@
-﻿namespace Cache.DataDownloaders
+﻿namespace CSharpDataDownloaderCaching.DataDownloaders
 {
     public interface IDataDownloader
     {

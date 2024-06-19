@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Cache.Caching
+namespace CSharpDataDownloaderCaching.Caching
 {
     public class Cache<TKey, TData>
     {
